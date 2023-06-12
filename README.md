@@ -9,7 +9,7 @@
 
 PyLith is an open-source finite-element code for dynamic and
 quasi-static simulations of crustal deformation, primarily earthquakes
-and volcanoes.
+and volcanoes. 
 
 * Main page: [https://geodynamics.org/resources/pylith](https://geodynamics.org/resources/pylith)
   * User Manual
